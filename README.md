@@ -2,7 +2,9 @@
 OVERWORLD TILEKIT VERSION 1.0
 Last updated March 5, 2020
 
+
 ---- CREDITS ----
+
 The original Super Mario All-Stars graphics are copyright Nintendo, all rights reserved, etc.
 
 Additional SMB3 ground tiles and border tiles by Sednaiur.  Please credit him if you use those.
@@ -11,6 +13,7 @@ SMB3-style cliffs, assorted edits and overall tileset arrangements by Rockythech
 
 
 ---- OVERVIEW AND USAGE ----
+
 The Overworld Tilekit is a package of pre-made tilesets for the free Tiled map editor (http://www.mapeditor.org) that I put together to help streamline the process of making pre-rendered overworld maps.
 
 Included is a sample/template .tmx file complete with the preloaded tilesets, SMB3 terrain autotiles (see the "Terrains" tab at the bottom of the "Tilesets" panel), and a pre-built example map ready to be exported as an image.
@@ -21,6 +24,7 @@ For more information on how to use Tiled, you can find tutorials on Youtube, suc
 
 
 ---- IMPORTANT NOTES ----
+
 - This package is only meant to help with building the static terrain and does not include any animated tiles for elements like moving water, scenery, levels or paths.  Stuff like the waterfall tiles and "Path Planning" tileset are meant to help with planning the layout and distribution of these things in maps.  I recommend keeping these tiles on a separate layer and hiding that layer when exporting the map image, then placing them in the SMBX map editor.
 
 - For simpler overworlds that only need the tiles that come pre-packaged with SMBX, I suggest simply building them entirely in the SMBX map editor.  This package will only really be more helpful for more complex world maps that would need a lot of additional tiles for things like cliff/ground seams.
